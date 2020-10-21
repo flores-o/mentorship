@@ -23,7 +23,7 @@ defmodule MentorshipWeb.Endpoint do
   plug Plug.Static,
     at: "/",
     from: :mentorship,
-    gzip: false,
+    gzip: true,
     only: ~w(css fonts images js favicon.ico robots.txt vendor)
 
   # Code reloading can be explicitly enabled under the
