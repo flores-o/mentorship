@@ -7,7 +7,11 @@ import "../vendor/fontawesome-free/css/all.min.css"
 import "../vendor/simple-line-icons/css/simple-line-icons.css"
 import "../vendor/jquery/jquery.min.js"
 import "../vendor/bootstrap/js/bootstrap.bundle.min.js"
+import "../css/landing-page.css"
 
+import goldenGate from '../static/images/golden_gate.jpg'
+import googleOffice from '../static/images/google_office.jpg'
+import graduation from '../static/images/graduation.jpg'
 // webpack automatically bundles all modules in your
 // entry points. Those entry points can be configured
 // in "webpack.config.js".
