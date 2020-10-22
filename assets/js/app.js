@@ -3,6 +3,10 @@
 // its own CSS file.
 import "../css/app.css"
 import "../vendor/bootstrap/css/bootstrap.min.css"
+import "../vendor/fontawesome-free/css/all.min.css"
+import "../vendor/simple-line-icons/css/simple-line-icons.css"
+import "../vendor/jquery/jquery.min.js"
+import "../vendor/bootstrap/js/bootstrap.bundle.min.js"
 
 // webpack automatically bundles all modules in your
 // entry points. Those entry points can be configured
