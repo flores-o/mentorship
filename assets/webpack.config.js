@@ -61,7 +61,6 @@ module.exports = (env, options) => {
       new CopyWebpackPlugin([{ from: 'static/', to: '../' }])
     ],
     resolve: {
-        extensions: ['', '.js', '.jsx', '.css'],
         modules: [
           'node_modules'
         ]        
