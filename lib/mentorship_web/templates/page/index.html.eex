@@ -2,7 +2,7 @@
   <nav class="navbar navbar-light bg-light static-top">
     <div class="container">
       <a class="navbar-brand" href="#">GOLDHOUSE RO</a>
-      <a class="btn btn-primary" href="#">Apply</a>
+      <a class="btn btn-primary" href="https://forms.gle/KBZ2Y8uAywaZRaim8">Apply</a>
     </div>
   </nav>
 
@@ -18,7 +18,7 @@
         <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">
         <div class="form-row justify-content-center">
           <div class="col-12 col-md-5">
-            <button type="submit" class="btn btn-block btn-lg btn-primary">Apply</button>
+            <a href="https://forms.gle/KBZ2Y8uAywaZRaim8" class="btn btn-block btn-lg btn-primary">Apply</a>
           </div>
         </div>
         </div>
@@ -45,7 +45,7 @@
               <i class="fas fa-graduation-cap m-auto text-primary"></i>
             </div>
             <h3>1-to-1 mentoring for highschool students</h3>
-            <p class="lead mb-0">The high school students who are admitted will be supported by a mentor studying at university in which the mentees themselves are interested. </p>
+            <p class="lead mb-0">The high school students who are admitted will be supported by a mentor studying at a university in which the mentees themselves are interested. </p>
           </div>
         </div>
         <div class="col-lg-4">
@@ -91,23 +91,24 @@ Our mentors have studied at universities such as Cambrigde, Oxford, Edinbrugh. <
       <div class="row">
         <div class="col-lg-4">
           <div class="testimonzaial-item mx-auto mb-5 mb-lg-0">
-            <img class="img-fluid rounded-circle mb-3" src="img/testimonials-1.jpg" alt="">
+            <img class="img-fluid rounded-circle mb-3" src="images/oana.jpg" alt="">
             <h5>Oana Florescu</h5>
-            <p class="font-weighzat-light mb-0">"This is fantastic! Thanks so much guys!"</p>
+            <p class="font-weight-light mb-0">SWE Intern Facebook</br>FMI, Bucharest</p>
           </div>
         </div>
         <div class="col-lg-4">
           <div class="testimonial-item mx-auto mb-5 mb-lg-0">
-            <img class="img-fluid rounded-circle mb-3" src="img/testimonials-2.jpg" alt="">
+            <img class="img-fluid rounded-circle mb-3" src="images/eric.jpg" alt="">
+         
             <h5>Eric Stavarache</h5>
-            <p class="font-weight-light mb-0">"Bootstrap is amazing. I've been using it to create lots of super nice landing pages."</p>
+            <p class="font-weight-light mb-0">SWE Intern Google </br>ETH, Zurich</p>
           </div>
         </div>
         <div class="col-lg-4">
           <div class="testimonial-item mx-auto mb-5 mb-lg-0">
-            <img class="img-fluid rounded-circle mb-3" src="img/testimonials-3.jpg" alt="">
-            <h5>Andrei Margeloiu</h5>
-            <p class="font-weight-light mb-0">"Thanks so much for making these free resources available to us!"</p>
+            <img class="img-fluid rounded-circle mb-3" src="images/armand.jpg" alt="">
+            <h5>Armand Nicolicioiu</h5>
+            <p class="font-weight-light mb-0">SWE Intern Microsoft</br>POLITEHNICA, Bucharest</p>
           </div>
         </div>
       </div>
@@ -126,7 +127,7 @@ Our mentors have studied at universities such as Cambrigde, Oxford, Edinbrugh. <
           <form>
             <div class="form-row justify-content-center">
               <div class="col-12 col-md-5">
-                <button type="submit" class="btn btn-block btn-lg btn-primary">Apply</button>
+                <a href="https://forms.gle/KBZ2Y8uAywaZRaim8" class="btn btn-block btn-lg btn-primary">Apply</a>
               </div>
             </div>
           </form>

@@ -12,6 +12,9 @@ import "../css/landing-page.css"
 import goldenGate from '../static/images/golden_gate.jpg'
 import googleOffice from '../static/images/google_office.jpg'
 import graduation from '../static/images/graduation.jpg'
+import eric_pic from '../static/images/eric.jpg'
+import armand_pic from '../static/images/armand.jpg'
+import oana_pic from '../static/images/oana.jpg'
 // webpack automatically bundles all modules in your
 // entry points. Those entry points can be configured
 // in "webpack.config.js".
