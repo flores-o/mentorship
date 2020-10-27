@@ -15,6 +15,7 @@ import graduation from '../static/images/graduation.jpg'
 import eric_pic from '../static/images/eric.jpg'
 import armand_pic from '../static/images/armand.jpg'
 import oana_pic from '../static/images/oana.jpg'
+import teo_pic from '../static/images/teo.jpg'
 // webpack automatically bundles all modules in your
 // entry points. Those entry points can be configured
 // in "webpack.config.js".

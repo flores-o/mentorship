@@ -2,7 +2,10 @@
   <nav class="navbar navbar-light bg-light static-top">
     <div class="container">
       <a class="navbar-brand" href="#">GOLDHOUSE RO</a>
-      <a class="btn btn-primary" href="https://forms.gle/KBZ2Y8uAywaZRaim8">Apply</a>
+      <div class="form-inline"> 
+      <a class ="float-right btn btn-link" href="/mentors"> Mentors </a>
+      <a class="btn btn-primary" style="margin-left: 1rem!important" href="https://forms.gle/KBZ2Y8uAywaZRaim8">Apply</a>
+      </div>
     </div>
   </nav>
 
@@ -90,7 +93,7 @@ Our mentors have studied at universities such as Cambrigde, Oxford, Edinbrugh. <
       <h2 class="mb-5">Featured mentors</h2>
       <div class="row">
         <div class="col-lg-4">
-          <div class="testimonzaial-item mx-auto mb-5 mb-lg-0">
+          <div class="testimonial-item mx-auto mb-5 mb-lg-0">
             <img class="img-fluid rounded-circle mb-3" src="images/oana.jpg" alt="">
             <h5>Oana Florescu</h5>
             <p class="font-weight-light mb-0">SWE Intern Facebook</br>FMI, Bucharest</p>

@@ -17,6 +17,7 @@ defmodule MentorshipWeb.Router do
     pipe_through :browser
 
     get "/", PageController, :index
+    get "/mentors", PageController, :mentors
   end
 
   # Other scopes may use custom stacks.
