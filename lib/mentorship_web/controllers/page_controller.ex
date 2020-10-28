@@ -8,4 +8,8 @@ defmodule MentorshipWeb.PageController do
   def mentors(conn, _params) do
     render(conn, "mentors.html")
   end
+  
+  def resources(conn, _params) do
+    render(conn, "resources.html")
+  end
 end

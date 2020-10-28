@@ -13,6 +13,19 @@
 
   </head>
   <body>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-light bg-light static-top">
+    <div class="container">
+      <a class="navbar-brand" href="https://www.goldhousero.com">GOLDHOUSE RO</a>
+      <div class="form-inline"> 
+      <a class ="float-right btn btn-link" href="https://www.goldhousero.com/resources">Resources</a>
+      <a class ="float-right btn btn-link" style="margin-left: 0rem!important" href="https://www.goldhousero.com/mentors">Mentors</a>
+      <a class="btn btn-primary" style="margin-left: 1rem!important" href="https://forms.gle/KBZ2Y8uAywaZRaim8">Apply</a>
+      </div>
+    </div>
+  </nav>
+
       <%= @inner_content %>
   </body>
 </html>

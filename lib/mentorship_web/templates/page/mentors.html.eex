@@ -1,20 +1,9 @@
-  <!-- Navigation -->
-  <nav class="navbar navbar-light bg-light static-top">
-    <div class="container">
-      <a class="navbar-brand" href="http://www.goldhousero.com">GOLDHOUSE RO</a>
-      <div class="form-inline"> 
-      <a class ="float-right btn btn-link" href="http://www.goldhousero.com/mentors"> Mentors </a>
-      <a class="btn btn-primary" style="margin-left: 1rem!important" href="https://forms.gle/KBZ2Y8uAywaZRaim8">Apply</a>
-      </div>
-    </div>
-  </nav>
 
-
-  <!-- Testimonials -->
+<!-- Testimonials -->
   <section class="testimonials text-center bg-light">
     <div class="container">
-      <h2 class="mb-5">Our mentors</h2>
-      <div class="row">
+      <h2 class="mb-5">Mentors</h2>
+      <div class="row"style="margin-top:6rem; ">
         <div class="col-lg-3">
           <div class="testimonial-item mx-auto mb-5 mb-lg-0">
             <img class="img-fluid rounded-circle mb-3" src="images/oana.jpg" alt="">
@@ -47,7 +36,7 @@
         </div>
       </div>
 
-      <div class="row" style="margin-top:3rem; margin-bottom:3rem; ">
+      <div class="row my-margin-top" style="margin-top:6rem; ">
         <div class="col-lg-3">
           <div class="testimonial-item mx-auto mb-5 mb-lg-0">
             <img class="img-fluid rounded-circle mb-3" src="images/lazar.jpg" alt="">
@@ -79,7 +68,7 @@
         </div>
       </div>
 
-      <div class="row">
+      <div class="row"style="margin-top:6rem; ">
         <div class="col-lg-3">
           <div class="testimonial-item mx-auto mb-5 mb-lg-0">
             <img class="img-fluid rounded-circle mb-3" src="images/george_p.jpg" alt="">
@@ -102,7 +91,50 @@
           </div>
         </div>
 
+        <div class="col-lg-3">
+          <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+            <img class="img-fluid rounded-circle mb-3" src="images/denisa_s.jpg" alt="">
+            <h5>Denisa Sandu</h5>
+            <p class="font-weight-light mb-0">SWE Google</br>POLITEHNICA, Bucharest</p>
+          </div>
+        </div>
+
       </div>
+
+      <div class="row"style="margin-top:6rem; ">
+        <div class="col-lg-3">
+          <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+            <img class="img-fluid rounded-circle mb-3" src="images/oana_c.jpg" alt="">
+            <h5>Oana-Roxana Ciocioman</h5>
+            <p class="font-weight-light mb-0">SWE Facebook</br>Imperial College, UK</p>
+          </div>
+        </div>
+        <div class="col-lg-3">
+          <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+            <img class="img-fluid rounded-circle mb-3" src="images/ana_cosmina.jpg" alt="">
+            <h5>Ana-Cosmina Popescu</h5>
+            <p class="font-weight-light mb-0">SWE Intern Google </br>POLITEHNICA, Bucharest</p>
+          </div>
+        </div>
+<!--        <div class="col-lg-3">
+          <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+            <img class="img-fluid rounded-circle mb-3" src="images/denisa_s.jpg" alt="">
+            <h5>Denisa Sandu</h5>
+            <p class="font-weight-light mb-0">SWE Intern Google</br>POLITEHNICA, Bucharest</p>
+          </div>
+          </div>
+-->
+<!--
+        <div class="col-lg-3">
+          <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+            <img class="img-fluid rounded-circle mb-3" src="images/teodora_t.jpg" alt="">
+            <h5>Teodora Tica</h5>
+            <p class="font-weight-light mb-0">SWE Intern Google</br>POLITEHNICA, Bucharest</p>
+          </div>
+        </div>
+
+      </div>
+-->
     </div>
   </section>
 

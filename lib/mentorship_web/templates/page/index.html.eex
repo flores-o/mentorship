@@ -1,14 +1,3 @@
-  <!-- Navigation -->
-  <nav class="navbar navbar-light bg-light static-top">
-    <div class="container">
-      <a class="navbar-brand" href="#">GOLDHOUSE RO</a>
-      <div class="form-inline"> 
-      <a class ="float-right btn btn-link" href="/mentors"> Mentors </a>
-      <a class="btn btn-primary" style="margin-left: 1rem!important" href="https://forms.gle/KBZ2Y8uAywaZRaim8">Apply</a>
-      </div>
-    </div>
-  </nav>
-
   <!-- Masthead -->
   <header class="masthead text-white text-center">
     <div class="overlay" style="background-color:black; opacity:0.6"> </div>
@@ -74,7 +63,7 @@
           <h2>Mentorship for university students</h2>
           <p class="lead mb-0"> You'll have regular calls with your mentor for progress updates. They will be there to support you in getting a job at your favourite company! <br>
 
-Our mentors have worked at companies such as Google, Facebook, Amazon, Bloomberg, JP Morgan.</p>
+Our mentors have worked at companies such as Google, Facebook, Amazon, Bloomberg, JP Morgan, Goldman Sachs.</p>
         </div>
       </div>
       <div class="row no-gutters">
@@ -82,7 +71,7 @@ Our mentors have worked at companies such as Google, Facebook, Amazon, Bloomberg
         <div class="col-lg-6 my-auto showcase-text">
           <h2>Mentorship for highschool students</h2>
           <p class="lead mb-0">You will have regular call with your mentor for progress updates. They have applied succesfuly to some of the most renamed universities and will help you do the same! <br> 
-Our mentors have studied at universities such as Cambrigde, Oxford, Edinbrugh. </p>
+Our mentors have studied at universities such as Cambrigde, Oxford, Imperial, Edinburgh, Southampton. </p>
         </div>
       </div>
   </section>

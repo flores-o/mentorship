@@ -18,6 +18,7 @@ defmodule MentorshipWeb.Router do
 
     get "/", PageController, :index
     get "/mentors", PageController, :mentors
+    get "/resources", PageController, :resources
   end
 
   # Other scopes may use custom stacks.
