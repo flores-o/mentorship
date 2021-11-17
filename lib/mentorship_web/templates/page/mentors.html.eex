@@ -8,7 +8,7 @@
           <div class="testimonial-item mx-auto mb-5 mb-lg-0">
             <img class="img-fluid rounded-circle mb-3" src="images/oana.jpg" alt="">
             <h5>Oana Florescu</h5>
-            <p class="font-weight-light mb-0">SWE Intern Facebook</br>FMI, Bucharest</p>
+            <p class="font-weight-light mb-0">SWE Facebook</br>FMI, Bucharest</p>
           </div>
         </div>
         <div class="col-lg-3">
@@ -16,7 +16,7 @@
             <img class="img-fluid rounded-circle mb-3" src="images/eric.jpg" alt="">
          
             <h5>Eric Stavarache</h5>
-            <p class="font-weight-light mb-0">SWE Intern Google </br>ETH, Zurich</p>
+            <p class="font-weight-light mb-0">SWE Google </br>ETH, Zurich</p>
           </div>
         </div>
         <div class="col-lg-3">
@@ -31,7 +31,7 @@
           <div class="testimonial-item mx-auto mb-5 mb-lg-0">
             <img class="img-fluid rounded-circle mb-3" src="images/teo.jpg" alt="">
             <h5>Teodor Stelian</h5>
-            <p class="font-weight-light mb-0">SWE Intern Google</br>ETH, Zurich</p>
+            <p class="font-weight-light mb-0">SWE Google</br>ETH, Zurich</p>
           </div>
         </div>
       </div>
@@ -48,7 +48,7 @@
           <div class="testimonial-item mx-auto mb-5 mb-lg-0">
             <img class="img-fluid rounded-circle mb-3" src="images/ana_r.jpg" alt="">
             <h5>Ana Rogoz</h5>
-            <p class="font-weight-light mb-0">SWE Intern Google </br>FMI, Bucharest</p>
+            <p class="font-weight-light mb-0">SWE Google </br>FMI, Bucharest</p>
           </div>
         </div>
         <div class="col-lg-3">
@@ -63,7 +63,7 @@
           <div class="testimonial-item mx-auto mb-5 mb-lg-0">
             <img class="img-fluid rounded-circle mb-3" src="images/gabriel_p.jpg" alt="">
             <h5>Gabriel Pirjolescu</h5>
-            <p class="font-weight-light mb-0">SWE Intern Facebook</br>University of Southampton, UK</p>
+            <p class="font-weight-light mb-0">SWE Facebook</br>University of Southampton, UK</p>
           </div>
         </div>
       </div>
@@ -73,7 +73,7 @@
           <div class="testimonial-item mx-auto mb-5 mb-lg-0">
             <img class="img-fluid rounded-circle mb-3" src="images/george_p.jpg" alt="">
             <h5>George Popescu</h5>
-            <p class="font-weight-light mb-0">SWE Intern Google</br>POLITEHNICA, Bucharest</p>
+            <p class="font-weight-light mb-0">SWE Amazon</br>POLITEHNICA, Bucharest</p>
           </div>
         </div>
         <div class="col-lg-3">
