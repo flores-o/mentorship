@@ -124,17 +124,51 @@
           </div>
           </div>
 
-<!--
+
         <div class="col-lg-3">
           <div class="testimonial-item mx-auto mb-5 mb-lg-0">
-            <img class="img-fluid rounded-circle mb-3" src="images/teodora_t.jpg" alt="">
-            <h5>Teodora Tica</h5>
-            <p class="font-weight-light mb-0">SWE Intern Google</br>POLITEHNICA, Bucharest</p>
+            <img class="img-fluid rounded-circle mb-3" src="images/andrada_h.jpeg" alt="">
+            <h5>Andrada Hristu</h5>
+            <p class="font-weight-light mb-0">SWE Facebook</br>POLITEHNICA, Bucharest</p>
           </div>
         </div>
 
       </div>
+
+      <div class="row"style="margin-top:6rem; ">
+        <div class="col-lg-3">
+          <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+            <img class="img-fluid rounded-circle mb-3" src="images/catalina_a.jpeg" alt="">
+            <h5>Catalina Agachi</h5>
+            <p class="font-weight-light mb-0">SWE Intern Google</br>UCL, UK</p>
+          </div>
+        </div>
+        <div class="col-lg-3">
+          <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+            <img class="img-fluid rounded-circle mb-3" src="images/andreea_zaharia.jpeg" alt="">
+            <h5>Andreea Zaharia</h5>
+            <p class="font-weight-light mb-0">SWE Intern Apple </br>Univ of Cambridge, UK</p>
+          </div>
+        </div>
+        <div class="col-lg-3">
+          <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+            <img class="img-fluid rounded-circle mb-3" src="images/ana_silvia.jpeg" alt="">
+            <h5>Radu Stochitoiu</h5>
+            <p class="font-weight-light mb-0">SWE Google</br>POLITEHNICA, Bucharest</p>
+          </div>
+          </div>
+
+<!--
+        <div class="col-lg-3">
+          <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+            <img class="img-fluid rounded-circle mb-3" src="images/andrada_h.jpg" alt="">
+            <h5>Andrada Hristu</h5>
+            <p class="font-weight-light mb-0">SWE Facebook</br>POLITEHNICA, Bucharest</p>
+          </div>
+        </div>
 -->
+      </div>
+
     </div>
   </section>
 
